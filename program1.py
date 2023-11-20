@@ -1,1 +1,1 @@
-print("My first Git program Commit 2")
+print("Git commit in VetkaTest1")
